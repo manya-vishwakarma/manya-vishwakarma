@@ -150,7 +150,7 @@ Doctor Appointment Booking System
 
 <div align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="">
 
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 
