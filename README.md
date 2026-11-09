@@ -168,13 +168,13 @@ Doctor Appointment Booking System
 
 </a>
 
-<a href="https://leetcode.com/gauravmishra2744">
+<a href="https://leetcode.com/manyavishwakarma_7">
 
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode"/>
 
 </a>
 
-<a href="https://www.hackerrank.com/gauravmishra2744">
+<a href="https://www.hackerrank.com/manyavishwakarm2">
 
 <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank"/>
 
